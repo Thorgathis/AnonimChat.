@@ -1,0 +1,12 @@
+name: AnonimChat
+main: com.thorgathis.anonimchat.main
+version: 1.3
+author: Thorgathis
+api-version: 1.13
+commands:
+   anonchat:
+      description: Chat anonymously
+      usage: /anonchat
+
+    
+            

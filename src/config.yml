@@ -1,0 +1,7 @@
+## Config for AnonChat v1.3 by Thorgathis ##
+
+format: '&7[&kAnonymous&r&7]:'
+## &r - for reset chat color
+
+## To use color codes, use an ampersand (&)
+## Don't add spaces after the colon.
